@@ -10,4 +10,4 @@ Most popular article authors of all time-
         Markoff Chaney - 84557 views
 
 Days on which more than 1% of requests lead to errors:
-        2016-07-17 - 2.2626862468 % error
+        July 17, 2016 - 2.26 % error
